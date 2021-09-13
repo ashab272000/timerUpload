@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759727989632",
+    "project_id": "brewcrew-ashab",
+    "storage_bucket": "brewcrew-ashab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759727989632:android:1686ac31c03aef4f5a9765",
+        "android_client_info": {
+          "package_name": "com.ashab.mettrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759727989632-8bonnqsutpugc0mttvgt6peell0n4tfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCes68jZDRQ_z9NhAm7C8SlCMfW-rXk6_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759727989632-8bonnqsutpugc0mttvgt6peell0n4tfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
